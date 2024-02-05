@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.content-container {
+  display: flex;
+}
+
+.band-column {
+  flex: 1;
+}
+
+.payment-column {
+  flex: 1;
+  padding: 20px;
+}
